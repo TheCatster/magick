@@ -1,0 +1,8 @@
+cmc,collector_number,color_identity,colors,estimated_price,extras,language,mana_cost,name,oracle_id,quantity,rarity,scryfall_id,set_code,set_name,type_line
+"1.0","161","R","R","2.50","","en","{R}","Lightning Bolt","","2","common","aaa-1","2ed","Unlimited","Instant"
+"1.0","161","R","R","2.50","","en","{R}","Lightning Bolt","","1","common","aaa-1","2ed","Unlimited","Instant"
+"1.0","161","R","R","9.00","foil","en","{R}","Lightning Bolt","","1","common","aaa-2","2ed","Unlimited","Instant"
+"1.0","161","R","R","900.00","","en","{R}","Lightning Bolt","","1","common","aaa-3","lea","Alpha","Instant"
+"2.0","472","C","C","5.00","etchedFoil","en","{2}","Sol Ring, the Ringening // Sol","","2","uncommon","aaa-4","cmr","Commander Legends","Artifact"
+"0.0","88","G","G","0.10","","fr","","Forest","","4","common","aaa-5","eoe","Edge of Eternities","Land"
+"2.0","63","U","U","1.00","/foil","en","{1}{U}","Counterspell","","1","common","aaa-6","tmp","Tempest","Instant"

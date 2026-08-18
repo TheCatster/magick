@@ -1,0 +1,2 @@
+# These fixtures exist to prove CRLF and BOM handling; never normalise them.
+tests/fixtures/*.csv -text
